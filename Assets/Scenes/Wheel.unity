@@ -160,7 +160,7 @@ MonoBehaviour:
   - id: 7
     value: Stylo
     numbersOfItems: 10
-    image: {fileID: 0}
+    image: {fileID: 21300000, guid: 9f284a31fcba4054bbbedb58697bbeee, type: 3}
   - id: 9
     value: "Porte cl\xE9"
     numbersOfItems: 8
@@ -464,6 +464,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2858873197137180550, guid: a47014247c2e69a4794626cd5e98e18c, type: 3}
+      propertyPath: Luncher
+      value: 
+      objectReference: {fileID: 684972014}
     - target: {fileID: 2858873197137180604, guid: a47014247c2e69a4794626cd5e98e18c, type: 3}
       propertyPath: m_Name
       value: WheelPopUpPanel
